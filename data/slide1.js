@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{B5E4F917-FA24-4EA7-94C2-AACAFC589A5D}'];loadHandler&&loadHandler(0, '<div id="spr0_8a949cb"><div id="spr1_8a949cb" class="kern slide"><img id="img1_8a949cb" src="data/img1.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_8a949cb" class="kern slide"><div id="spr3_8a949cb" style="left:178.484px;top:207.997px;"><img id="img0_8a949cb" src="data/img0.png" width="603" height="124" alt="Text\
+\
+Description automatically generated" style="left:0.016px;top:0.003px;"/></div></div></div>', '{"s":[]}');})();
